@@ -15,11 +15,14 @@ I build practical technology for **live sound, AV, IT, and cloud infrastructure*
 
 ## 🛠️ Tech Stack
 
-```
-Cloud & DevOps    AWS · Kubernetes · Terraform
-Development       Python · Flask · JavaScript
-Audio & AV        MIDI control · Live-sound workflows · iOS/iPadOS tooling
-```
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![Apple](https://img.shields.io/badge/iOS%20%26%20iPadOS-000000?logo=apple&logoColor=white)
 
 ---
 
